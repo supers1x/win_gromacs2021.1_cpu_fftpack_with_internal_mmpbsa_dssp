@@ -1,4 +1,4 @@
-# This version [2021.1] can not be used to production molecular dynamics (MD), but can use it to analyzing MD trajectory producted by <= GROMACS2021.x, two reason as following:
+# This version [2021.1] can not be used to production molecular dynamics (MD), but can use it to analyze MD trajectory producted by <= GROMACS2021.x, two reason as following:
 
 1. As we know, this 2021.1 is the primary version of GROMACS 2021.x, many bugs will be occurred in the process of MD. So I will not provide fftw3 + CUDA accelerated version.
 
