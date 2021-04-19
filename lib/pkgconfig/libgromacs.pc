@@ -1,0 +1,11 @@
+libdir=E:/code_test/win_gromacs_cpu/lib
+
+Name: libgromacs
+Description: Gromacs library
+URL: http://www.gromacs.org
+Version: 2021.1-2021.1
+Requires:  
+Libs.private:   
+Libs: -L${libdir} -lgromacs  -lm
+Cflags:  -IE:/code_test/win_gromacs_cpu/include -DGMX_DOUBLE=0 -Qopenmp
+
