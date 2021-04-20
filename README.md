@@ -10,7 +10,7 @@ You can run `gmx mmpbsa`, added some functions:
 1. Supports elec and vdw energy decomposition of residues
 2. Supports calculate MM(elec) with Debye-Huckel screening method with `-dh` option [Ref](http://jerkwin.github.io/2021/03/16/gmx_mmpbsa%E8%84%9A%E6%9C%AC%E6%9B%B4%E6%96%B0-%E5%B1%8F%E8%94%BD%E6%95%88%E5%BA%94%E4%B8%8E%E7%86%B5%E8%B4%A1%E7%8C%AE/)
 
-More details and other analysis toos can be found in [websit](https://github.com/liuyujie714/g_mmpbsa_windows)
+More details and other analysis tools can be found in [websit](https://github.com/liuyujie714/g_mmpbsa_windows)
 
 # Installation and Usage
 Unpack zip and add full path of gmx.exe to __PATH__ environment variable of Windows system, such as __D:\win_gromacs2021.1_cpu_fftpack_with_internal_mmpbsa_dssp\bin__
