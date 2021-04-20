@@ -12,3 +12,11 @@ You can run `gmx mmpbsa`, added some functions:
 
 More details and other analysis toos can be found in [websit](https://github.com/liuyujie714/g_mmpbsa_windows)
 
+# Installation and Usage
+Unpack zip and add full path of gmx.exe to __PATH__ environment variable of Windows system, such as __D:\win_gromacs2021.1_cpu_fftpack_with_internal_mmpbsa_dssp\bin__
+
+Use it by CMD/powershell console 
+
+Enjoy!
+
+
